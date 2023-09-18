@@ -1,0 +1,14 @@
+C:\Users\aarro\source\repos\Algorithms-Assignment1\Algorithms-Assignment1\bin\Debug\net6.0\Algorithms-Assignment1.exe
+C:\Users\aarro\source\repos\Algorithms-Assignment1\Algorithms-Assignment1\bin\Debug\net6.0\Algorithms-Assignment1.deps.json
+C:\Users\aarro\source\repos\Algorithms-Assignment1\Algorithms-Assignment1\bin\Debug\net6.0\Algorithms-Assignment1.runtimeconfig.json
+C:\Users\aarro\source\repos\Algorithms-Assignment1\Algorithms-Assignment1\bin\Debug\net6.0\Algorithms-Assignment1.dll
+C:\Users\aarro\source\repos\Algorithms-Assignment1\Algorithms-Assignment1\bin\Debug\net6.0\Algorithms-Assignment1.pdb
+C:\Users\aarro\source\repos\Algorithms-Assignment1\Algorithms-Assignment1\obj\Debug\net6.0\Algorithms-Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aarro\source\repos\Algorithms-Assignment1\Algorithms-Assignment1\obj\Debug\net6.0\Algorithms-Assignment1.AssemblyInfoInputs.cache
+C:\Users\aarro\source\repos\Algorithms-Assignment1\Algorithms-Assignment1\obj\Debug\net6.0\Algorithms-Assignment1.AssemblyInfo.cs
+C:\Users\aarro\source\repos\Algorithms-Assignment1\Algorithms-Assignment1\obj\Debug\net6.0\Algorithms-Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\aarro\source\repos\Algorithms-Assignment1\Algorithms-Assignment1\obj\Debug\net6.0\Algorithms-Assignment1.dll
+C:\Users\aarro\source\repos\Algorithms-Assignment1\Algorithms-Assignment1\obj\Debug\net6.0\refint\Algorithms-Assignment1.dll
+C:\Users\aarro\source\repos\Algorithms-Assignment1\Algorithms-Assignment1\obj\Debug\net6.0\Algorithms-Assignment1.pdb
+C:\Users\aarro\source\repos\Algorithms-Assignment1\Algorithms-Assignment1\obj\Debug\net6.0\Algorithms-Assignment1.genruntimeconfig.cache
+C:\Users\aarro\source\repos\Algorithms-Assignment1\Algorithms-Assignment1\obj\Debug\net6.0\ref\Algorithms-Assignment1.dll
